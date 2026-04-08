@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+web+apps+with+React+%26+.NET;Mid-Level+Developer+%40+Bitron+Labs;Turning+ideas+into+real-world+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+web+apps+with+React+%26+.NET;Full-Stack+Developer+%7C+React+%26+.NET;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,27 +21,26 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+## 🧑‍💻 About Me
 
 ```js
 const daniyal = {
-    role: "Mid-Level Full-Stack Developer",
-    company: "Bitron Labs",
+    role: "Full-Stack Developer",
     education: "BS Computer Science @ PAF-KIET (CGPA: 3.3)",
     location: "Karachi, Pakistan",
-    currentWork: "Building Ocean — Foundation Zero Platform",
+    currentWork: "Building Pro Disk Network",
     passion: "Turning ideas into scalable, real-world products",
 };
 ```
 
-- Currently working on **Ocean (Foundation Zero)** at Bitron Labs
+- Currently working on **Pro Disk Network**
 - Building full-stack apps with **React** + **ASP.NET Core**
 - Experienced in e-commerce platforms handling **450k+ products**
 - Leveraging **AI tools** to boost development efficiency
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -73,7 +72,7 @@ const daniyal = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -122,7 +121,7 @@ Full-featured e-commerce application with admin dashboards for **sales tracking*
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> &nbsp;Experience
+## 💼 Experience
 
 ```
 Bitron Labs          ██████████████████████░░  2024 – Present   Mid-Level Developer (React)
@@ -132,7 +131,7 @@ Saapx                ████░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -147,7 +146,7 @@ Saapx                ████░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -161,7 +160,7 @@ Saapx                ████░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
