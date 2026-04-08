@@ -160,11 +160,11 @@ Saapx                ████░░░░░░░░░░░░░░░�
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daniyal-coder-prime&theme=algolia&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Daniyal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-coder-prime&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
