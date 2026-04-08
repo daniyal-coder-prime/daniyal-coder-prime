@@ -160,16 +160,6 @@ Saapx                ████░░░░░░░░░░░░░░░�
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Daniyal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-coder-prime&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
